@@ -3,13 +3,8 @@
 ## 1. Introduction
 
 - **Project Title:** Hemato-Vision  
-- **Team Members:**  
-  - G. Allen Noah Bhagyam
-  - L. Mounika
-  - T. Malik Baba
-  - N. Mahesh
-  - P. Paramesh
-
+- **Team Members:** :
+  - Manjusri Mathi
 ## 2. Project Overview
 
 - **Purpose:**  
